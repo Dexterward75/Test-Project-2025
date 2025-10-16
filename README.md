@@ -28,6 +28,14 @@ Bienvenue dans la documentation complète de Test-Project-2025 !
 8. 
 
 
+
+
+
+![Image](upload_files/c_theor0.jpg)
+
+
+
+Projet de test pour démontrer les capacités de création de projets attrayants sur GitHub
 ## 📌 Introduction
 
 
